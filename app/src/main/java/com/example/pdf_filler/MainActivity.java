@@ -33,8 +33,6 @@ public class MainActivity extends AppCompatActivity {
     EditText et;
     private File m_workingFile;
 
-
-
     public MainActivity() throws IOException {
     }
 

@@ -22,7 +22,7 @@ public enum DndField {
     CONSTITUTION_MOD("CONmod"),
     INTELLIGENCE("INT"),
     INTELLIGENCE_MOD("INTmod"),
-    WISODOM("WIS"),
+    WISDOM("WIS"),
     WISDOM_MOD("WISmod"),
     CHARISMA("CHA"),
     CHARISMA_MOD("CHamod"),

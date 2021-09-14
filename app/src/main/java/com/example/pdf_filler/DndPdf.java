@@ -91,7 +91,7 @@ public class DndPdf {
     }
 
     public DndPdf setWis(int wis){
-        setAbilityScore(DndField.WISODOM, DndField.WISDOM_MOD, wis);
+        setAbilityScore(DndField.WISDOM, DndField.WISDOM_MOD, wis);
         return this;
     }
 
